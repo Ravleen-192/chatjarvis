@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-chatjarvis-dev-144718-authRole",
+      "UnauthRoleArn": "arn:aws:iam::211544418920:role/amplify-chatjarvis-dev-144718-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::211544418920:role/amplify-chatjarvis-dev-144718-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-chatjarvis-dev-144718-deployment",
+      "UnauthRoleName": "amplify-chatjarvis-dev-144718-unauthRole",
+      "StackName": "amplify-chatjarvis-dev-144718",
+      "StackId": "arn:aws:cloudformation:us-east-1:211544418920:stack/amplify-chatjarvis-dev-144718/9b1104d0-f8f2-11eb-aae0-0a60f9dce991",
+      "AmplifyAppId": "d1jqkpkok7rw36"
+    }
+  }
+}
